@@ -2,9 +2,9 @@
 
 ## Repository Owner & Maintainer: Dustin Shulz
 
-- [GH Repo](https://cowtowndusty.github.io/cpnt201-a2/)
+- [GH Repo](https://github.com/cowtowndusty/cpnt201-a2/)
 
-- [GH Pages Site](https://github.com/cowtowndusty/cpnt201-a2/)
+- [GH Pages Site](https://cowtowndusty.github.io/cpnt201-a2/)
 
 ## Attributions:
 
